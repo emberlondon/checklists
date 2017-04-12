@@ -24,6 +24,7 @@ Tasks to be performed as soon after a meetup as possible.
   - [ ] Move this month to previous-events
   - [ ] Add details for upcoming meetup
 - [ ] Announce upcoming meetup
+- [ ] Re-order stickers on StickerMule if necessary
 
 ## Post Line-up Confirmation
 
