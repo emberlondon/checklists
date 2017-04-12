@@ -36,3 +36,48 @@ Tasks to be performed as soon as the line-up is confirmed and speaker details ar
 - [ ] Announce on Ember Community Slack
 - [ ] Announce on Ember London Slack
 - [ ] Announce on Google Plus
+
+## 4 weeks to go
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
+
+## 2 weeks to go
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
+
+## 1 week to go
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
+
+## 5 days to go
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
+
+## 4 days to go
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
+
+## 3 days to go
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
+
+## 2 days to go
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
+
+## 1 day to go
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
+
+## On the day
+
+- [ ] Hype on Twitter
+- [ ] Hype on Slack
