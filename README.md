@@ -20,6 +20,9 @@ Tasks that can (and should) be performed as far in advance of a meetup as possib
 Tasks to be performed as soon after a meetup as possible.
 
 - [ ] Send attendee survey
+- [ ] Thank you tweet to venue
+- [ ] Thank you tweet to speakers
+- [ ] Thank you tweet to Pusher
 - [ ] Update website:
   - [ ] Move this month to previous-events
   - [ ] Add details for upcoming meetup
